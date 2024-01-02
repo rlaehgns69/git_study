@@ -1,1 +1,1 @@
-product1: 상품
+product_name: 컴퓨터
